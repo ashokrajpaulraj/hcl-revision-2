@@ -24,6 +24,7 @@ public class AppController {
 	
 	@GetMapping("/")
 	public String home() {
+		//this is for loading the welcome.jsp file
 		return "welcome"; // /webapp/jsp/welcome.jsp
 	}
 	
