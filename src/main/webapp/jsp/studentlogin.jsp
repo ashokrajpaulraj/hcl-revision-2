@@ -10,7 +10,7 @@
 
 <h1> Welcome to Student Login </h1>
 
-<form action="/student/studentloginverify" method="post">
+<form action="/Security-Demo-0.0.1-SNAPSHOT/student/studentloginverify" method="post">
 	<label>Login Id : </label>
 	<input type="text" name="id" />
 	<br><br>

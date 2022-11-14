@@ -11,19 +11,19 @@
 
 <h1> Welcome to Teacher Mode :: Add a new student </h1>
 
-<a href="/teacher/addstudentform"> Add New Student </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/addstudentform"> Add New Student </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="/teacher/viewallstudents"> View All Students </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/viewallstudents"> View All Students </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="/teacher/logout"> Logout </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/logout"> Logout </a>
 
 <hr>
 
-<form action="/teacher/savestudent" method="post">
+<form action="/Security-Demo-0.0.1-SNAPSHOT/teacher/savestudent" method="post">
 	
 	<label>Name</label>
 	<br>

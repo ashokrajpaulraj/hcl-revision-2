@@ -12,15 +12,15 @@
 
 <h1> Welcome to Teacher Mode :: View all students </h1>
 
-<a href="/teacher/addstudentform"> Add New Student </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/addstudentform"> Add New Student </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="/teacher/viewallstudents"> View All Students </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/viewallstudents"> View All Students </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="/teacher/logout"> Logout </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/logout"> Logout </a>
 
 <hr>
 
@@ -58,9 +58,9 @@
 				<td>${temp.getPassword()}</td>
 				
 				<td>
-					<a href="/teacher/studentdelete/${temp.getId()}"> Delete </a>
+					<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/studentdelete/${temp.getId()}"> Delete </a>
 					&nbsp;&nbsp;&nbsp;
-					<a href="/teacher/studentupdateform?id=${temp.getId()}"> Update </a>
+					<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/studentupdateform?id=${temp.getId()}"> Update </a>
 				</td>
 			</tr>
 		</c:forEach>

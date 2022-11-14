@@ -12,19 +12,19 @@
 
 <h1> Welcome to Teacher Mode :: Update student </h1>
 
-<a href="/teacher/addstudentform"> Add New Student </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/addstudentform"> Add New Student </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="/teacher/viewallstudents"> View All Students </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/viewallstudents"> View All Students </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="/teacher/logout"> Logout </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/logout"> Logout </a>
 
 <hr>
 
-<form action="/teacher/updatestudent" method="post">
+<form action="/Security-Demo-0.0.1-SNAPSHOT/teacher/updatestudent" method="post">
 	
 	<input type="text" name="id" value="${data.getId()}" readonly style="display: none">
 	

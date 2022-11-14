@@ -10,7 +10,7 @@
 
 <h1> Welcome to Teacher Login </h1>
 
-<form action="/teacher/teacherloginverify" method="post">
+<form action="/Security-Demo-0.0.1-SNAPSHOT/teacher/teacherloginverify" method="post">
 	<label>Username : </label>
 	<input type="text" name="username" />
 	<br><br>

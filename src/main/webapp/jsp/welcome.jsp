@@ -8,9 +8,9 @@
 </head>
 <body>
 
-<a href="/teacher/home"> Go To Teacher Mode </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/home"> Go To Teacher Mode </a>
 <br><br>
-<a href="/student/home"> Go To Student Mode </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/student/home"> Go To Student Mode </a>
 
 </body>
 </html>

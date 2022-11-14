@@ -10,7 +10,7 @@
 
 <h1> Welcome to Student Mode :: Hi, ${student.getName()}</h1>
 
-<a href="/teacher/logout"> Logout </a>
+<a href="/Security-Demo-0.0.1-SNAPSHOT/teacher/logout"> Logout </a>
 
 <hr>
 
